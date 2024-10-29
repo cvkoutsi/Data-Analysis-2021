@@ -1,6 +1,6 @@
 ﻿# Data-Analysis-2021
 
-This repository contains files from the 2022 project in the Data Analysis course of Aristotle University of Thessaloniki. The project concerns the analysis of 2020 and 2021 data regarding the Covid-19 pandemic. Namely, the project has 10 queries: 
+This repository contains files from the 2022 project in the **Data Analysis course** of Aristotle University of Thessaloniki. The project concerns the analysis of 2020 and 2021 data regarding the Covid-19 pandemic. Namely, the project has 10 queries: 
 
 1. Fit the distribution of the positivity rate in the European countries in weeks of 2020 and 2021 to known distributions
 
